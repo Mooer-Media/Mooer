@@ -5,4 +5,4 @@ A duck-based chatsite free of advertising, data collection, and anything else Me
 
 
 
-*Mooer is not affiliated with Meower Media Co. in any way, shape, or form. May cause vomiting, diarrhea, and death.
+*Mooer is not affiliated with Meower Media Co. in any way, shape, or form. May cause vomiting, diarrhea, and death.*
